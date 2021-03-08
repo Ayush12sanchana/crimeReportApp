@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinnerItems">
+        <item>Select Crime Type</item>
+        <item>Crime 01</item>
+        <item>Crime 02</item>
+        <item>Crime 03</item>
+        <item>Crime 05</item>
+    </string-array>
+
+</resources>

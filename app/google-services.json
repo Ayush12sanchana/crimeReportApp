@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "685560072902",
+    "project_id": "crimereport-ccf95",
+    "storage_bucket": "crimereport-ccf95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685560072902:android:5f0c76b650eac8aa1125c7",
+        "android_client_info": {
+          "package_name": "com.example.crimereport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685560072902-rmt7r1c1o9rbllnkod139uj540giucqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5Ym72COv4upVT8457o5i-p-lr4k23G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685560072902-rmt7r1c1o9rbllnkod139uj540giucqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685560072902:android:d452a16f73278a6e1125c7",
+        "android_client_info": {
+          "package_name": "com.example.crimereport01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685560072902-5c3mlpa0p8sofv8q99kb9b1tq43q6ctl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crimereport01",
+            "certificate_hash": "8dba6ebb0b410147cec3b801b9d9c9ff22b4d158"
+          }
+        },
+        {
+          "client_id": "685560072902-rmt7r1c1o9rbllnkod139uj540giucqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5Ym72COv4upVT8457o5i-p-lr4k23G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685560072902-rmt7r1c1o9rbllnkod139uj540giucqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
